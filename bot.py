@@ -12,18 +12,18 @@ from pyrogram.errors import PeerIdInvalid
 logging.basicConfig(level=logging.INFO, handlers=[logging.FileHandler('log.txt'),
                                                   logging.StreamHandler()], format="[KORA]: %(message)s")
 
-API_ID = 22499495
-API_HASH = "0d993e3aef2c008361850e995ace3adb"
-BOT_TOKEN = "5842656006:AAE17eEnRGpiVDA4I6MXJtXA2LYs6FkFPg4"  
+API_ID = 11472991
+API_HASH = "c78c50d54baf2173e8b3f75c359c0c72"
+BOT_TOKEN = "7403813284:AAF4BfV-g9ragaoAwEpx2erYRxcenKtVie8"  
 
-SOURCE_CHANNEL = -1002591052260  
+SOURCE_CHANNEL = -1002226526983  
 
 DEST_CHANNELS = [
-    -1002547462385,  
-    -1002646034742,
-    #-1003333333333,  
-    #-1004444444444,  
-    #-1005555555555,  
+    -1002309410978,  
+    -1001893657901,
+    -1002369302332,  
+    -1002440290841,  
+    -1001919586520,  
     #-1006666666666,  
     #-1007777777777,  
     #-1008888888888,  
